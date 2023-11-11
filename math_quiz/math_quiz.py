@@ -5,6 +5,7 @@ def function_A(min, max):
     """
     Random integer.
     """
+    # Returns a random integer in the range min and max
     return random.randint(min, max)
 
 
